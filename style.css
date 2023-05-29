@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh; 
+}
+
+.border-bottom-color {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ffc107
+}
+
+.bg-info-store-1 {
+    background: lightgoldenrodyellow;
+    color: black;
+    border: 1px solid orange;
+}
+.bg-info-store-2 {
+    background: yellow;
+    color: black;
+    border: 1px solid orange;
+}
+.bg-info-store-3 {
+    background: lightsalmon;
+    color: black;
+    border: 1px solid orange;
+}
+.bg-info-store-4 {
+    background: orange;
+    color: black;
+    border: 1px solid orange;
+}
